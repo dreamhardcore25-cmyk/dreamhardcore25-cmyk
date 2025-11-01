@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://sora.chatgpt.com/g/gen_01k8zrp17fe1davek0v2m7m62y">
-    <img width="1280" height="640" alt="AeroHost Banner" src="https://sora.chatgpt.com/g/gen_01k8zrp17fe1davek0v2m7m62y" />
+  <a href="https://aerohost.dev/">
+    <img width="1280" height="640" alt="AeroHost Banner" src="https://preview--display-web-image.lumi.ing/" />
   </a>
 </p>
 
