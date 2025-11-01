@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://preview--display-web-image.lumi.ing/">
-    <img width="1280" height="640" alt="AeroHost Banner" src="https://preview--display-web-image.lumi.ing/" />
+  <a href="https://static.lumi.new/6d/6df8b58ef3220241ba2484b9d09d9eee.webp">
+    <img width="1280" height="640" alt="AeroHost Banner" src="https://static.lumi.new/6d/6df8b58ef3220241ba2484b9d09d9eee.webp" />
   </a>
 </p>
 
