@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://aerohost.dev/">
+  <a href="https://preview--display-web-image.lumi.ing/">
     <img width="1280" height="640" alt="AeroHost Banner" src="https://preview--display-web-image.lumi.ing/" />
   </a>
 </p>
