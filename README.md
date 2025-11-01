@@ -1,48 +1,50 @@
 <p align="center">
-  <a href="https://reviactyl.dev/">
-    <img width="1280" height="640" alt="Reviactyl Banner" src="https://github.com/user-attachments/assets/a02869d0-f5d3-4391-8f45-cada52aa6916" />
+  <a href="https://aerohost.dev/">
+    <img width="1280" height="640" alt="AeroHost Banner" src="https://sora.chatgpt.com/g/gen_01k8zrp17fe1davek0v2m7m62y" />
   </a>
 </p>
 
-<h1 align="center">🎨 Reviactyl — Criador de Temas para Pterodactyl</h1>
+<h1 align="center">🚀 AeroHost — Painel Personalizado e Criador de Temas para Pterodactyl</h1>
 
 <p align="center">
-  <strong>Personalize. Crie. Transforme.</strong><br>
-  O Reviactyl é um <b>criador e personalizador de temas</b> para o Pterodactyl — moderno, gratuito e 100% open source.
+  <strong>Estilo. Performance. Liberdade.</strong><br>
+  A <b>AeroHost</b> apresenta seu próprio <b>painel e sistema de personalização</b> inspirado no Pterodactyl — moderno, rápido e totalmente otimizado.
 </p>
 
 ---
 
 ## ✨ Visão Geral
 
-O **Reviactyl** leva o painel **Pterodactyl** para outro nível, permitindo que você **crie e gerencie temas completos** com liberdade total.  
-Chega de editar CSS manualmente — aqui você **cria, visualiza e aplica** suas alterações com apenas alguns cliques.
+O **AeroHost Panel** foi desenvolvido para levar o **Pterodactyl** a um novo patamar de personalização e experiência visual.  
+Com ele, você pode **criar temas, alterar cores, tipografia, layout e identidade visual** do painel com poucos cliques.
 
-Desenvolvido sobre a base do Pterodactyl, o Reviactyl mantém **total compatibilidade** com todas as versões modernas e adiciona um **sistema modular de temas** que qualquer pessoa pode usar.
-
----
-
-## 🚀 Recursos Principais
-
-* 🎨 **Criador de Temas:** Construa e personalize seus próprios temas direto pela interface do Reviactyl.  
-* 👀 **Visualização em Tempo Real:** Veja as mudanças acontecerem instantaneamente antes de aplicar.  
-* 🧩 **Sistema Modular:** Adicione pacotes de temas, extensões visuais e complementos criados pela comunidade.  
-* 🌍 **Multilíngue:** Totalmente traduzível para qualquer idioma.  
-* ⚙️ **Integração Fácil:** Compatível com instalações existentes do Pterodactyl.  
-* 🖥️ **Interface Moderna:** Visual limpo, responsivo e adaptado a qualquer dispositivo.  
-* 💚 **Código Aberto e Gratuito:** 100% open source, com atualizações e suporte da comunidade — sem limitações, sem cobranças.
+Chega de editar CSS manualmente — o sistema da AeroHost traz um **criador de temas completo**, pensado para quem quer **um painel bonito, único e funcional**.
 
 ---
 
-## 💡 Por Que Escolher o Reviactyl?
+## ⚡ Recursos Principais
 
-O Reviactyl não é apenas mais um “fork” do Pterodactyl.  
-É um **ambiente criativo** para quem quer **personalizar sua própria experiência de painel**, seja para:
-- Hospedagens de jogos 🎮  
+* 🎨 **Criador de Temas Integrado:** Crie e personalize temas diretamente da interface.  
+* 👀 **Visualização em Tempo Real:** Veja suas modificações aplicadas instantaneamente.  
+* 🧩 **Sistema Modular:** Suporte para temas, complementos e extensões criadas pela comunidade.  
+* 🌐 **Multilíngue:** Painel traduzível e adaptável para qualquer idioma.  
+* ⚙️ **Compatibilidade Total:** Funciona sobre qualquer instalação moderna do Pterodactyl.  
+* 💻 **Design Moderno e Responsivo:** Layout limpo, fluido e adaptável a qualquer dispositivo.  
+* 💚 **Código Aberto:** 100% open source, sem limitações — da comunidade, para a comunidade.
+
+---
+
+## 💡 Por Que Escolher o AeroHost Panel?
+
+O **AeroHost Panel** não é apenas mais um fork.  
+É uma **evolução visual e funcional** do Pterodactyl, feita para quem valoriza identidade e experiência.  
+
+Ideal para:
+- Hospedagens de jogos e bots 🎮  
 - Servidores pessoais 🖥️  
-- Comunidades e projetos personalizados 💼  
+- Projetos personalizados e empresariais 💼  
 
-Com o Reviactyl, **seu painel ganha identidade**.
+Com o AeroHost, **seu painel reflete o estilo da sua marca**.
 
 ---
 
@@ -51,40 +53,40 @@ Com o Reviactyl, **seu painel ganha identidade**.
 - **Frontend:** React + TypeScript  
 - **Backend:** PHP (Laravel)  
 - **Infraestrutura:** Docker + Go  
-- **Sistema de Temas:** Reviactyl Custom Layer (RCL)
+- **Sistema de Temas:** Aero Custom Layer (ACL)
 
 ---
 
-## 💖 Patrocinadores
+## 💖 Agradecimentos
 
-Agradecemos aos patrocinadores que tornam o desenvolvimento do Reviactyl possível.  
-[Quer se tornar um patrocinador?](https://github.com/sponsors/reviactyl)
+Agradecemos a todos os desenvolvedores e colaboradores da comunidade Pterodactyl e AeroHost que tornaram este projeto possível.  
+Quer apoiar o desenvolvimento? [Entre em contato com a equipe da AeroHost](https://aerohost.dev/).
 
-| Empresa | Sobre |
-|----------|--------|
-| [**Tietokettu**](https://tietokettu.net/) | Empresa de hospedagem e serviços de rede fundada em 2019, oferecendo soluções acessíveis e funcionais para servidores modernos. |
+| Parceiro | Sobre |
+|-----------|--------|
+| [**Tietokettu**](https://tietokettu.net/) | Empresa de hospedagem e serviços de rede, oferecendo soluções acessíveis e confiáveis desde 2019. |
 
 ---
 
 ## 📜 Licença
 
-- **Pterodactyl®** © 2015 - 2022 Dane Everitt e colaboradores — Licenciado sob [MIT](https://github.com/reviactyl/panel/blob/develop/PTERO_LICENSE.md)  
-- **Reviactyl™** © 2025 Reviactyl e colaboradores — Licenciado sob [MIT](https://github.com/reviactyl/panel/blob/develop/LICENSE.md)
+- **Pterodactyl®** © 2015 - 2022 Dane Everitt e colaboradores — Licenciado sob [MIT](https://github.com/pterodactyl/panel/blob/develop/LICENSE.md)  
+- **AeroHost™** © 2025 AeroHost e colaboradores — Licenciado sob [MIT](https://github.com/aerohost/panel/blob/develop/LICENSE.md)
 
 ---
 
 ## ⭐ Histórico de Estrelas
 
-<a href="https://www.star-history.com/#reviactyl/panel&Date">
+<a href="https://www.star-history.com/#aerohost/panel&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=reviactyl/panel&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=reviactyl/panel&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=reviactyl/panel&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=aerohost/panel&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=aerohost/panel&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aerohost/panel&type=Date" />
   </picture>
 </a>
 
 ---
 
 <p align="center">
-  🌟 <b>Reviactyl — Dê um novo visual ao seu Pterodactyl com o poder da personalização.</b> 🌟
+  🌌 <b>AeroHost — eleve seu painel, dê asas à personalização.</b> 🌌
 </p>
