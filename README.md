@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://tavinhprotofile.netlify.app/">
-    <img width="1280" height="640" alt="VIPTAVINH Banner" src="https://placehold.co/1280x640/0a0a0a/00ff88?text=Clique+aqui+ProtofileMAX&font=raleway" />
+    <img width="1280" height="640" alt="VIPTAVINH Banner" src="https://placehold.co/1280x640/0a0a0a/00ff88?text=Clique+aqui+Protofile&font=raleway" />
   </a>
 </p>
 
